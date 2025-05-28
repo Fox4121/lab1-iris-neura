@@ -6,9 +6,5 @@
 - requirements.txt - бібліотеки
 - gitignore - файли які ігнорувати
 # Как запустить
-pip install -r requirements.txt
-python iris_classifier.py 
-#
-#
-#
-#
+- pip install -r requirements.txt
+- python iris_classifier.py 
